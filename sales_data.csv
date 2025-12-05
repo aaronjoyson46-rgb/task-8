@@ -1,0 +1,4 @@
+order_id,customer_id,category,price,quantity
+1,101,Men,500,1
+2,102,Women,700,2
+3,101,Accessories,200,1
